@@ -13,4 +13,4 @@
 [Переглянути демо](https://ilya-ilchuk.github.io/layout_landing-page/)
 
 ## Дизайн
-Обраний дизайн: [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET) або інший з вибраного списку.
+Обраний дизайн: [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
